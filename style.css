@@ -64,7 +64,7 @@
   .card-body {
     color: var(--clr-neutral-300);
     font-size: 15px;
-    line-height: 2;
+    line-height: 1.5;
     padding-top: 1rem;
   }
 
